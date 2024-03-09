@@ -1,0 +1,8 @@
+##Question
+A database has been set up for this course and the books table is available here.
+Run the code to explore what data books holds!
+
+
+### Solution
+SELECT *
+FROM books;
